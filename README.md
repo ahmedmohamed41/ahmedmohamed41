@@ -39,7 +39,7 @@ My personal profile
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedmohamedkhodar/?locale=ar_AR)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]([https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc](https://www.linkedin.com/in/ahmed-khodary-6bb327208/))
+)](https://www.linkedin.com/in/ahmed-khodary-6bb327208/)
 
 
 <!-- ### 🔗Contact Me
