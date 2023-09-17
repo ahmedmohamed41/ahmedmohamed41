@@ -21,7 +21,7 @@ My personal profile
 
 ![c++]([https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg))
 ![Dart]([https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3](https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg))
-![Flutter](https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png)
+![Flutter]
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -32,7 +32,7 @@ My personal profile
 - ### I’m currently learning 
 ![Problem Solving]
 ![Dart]([https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3](https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg))
-![Flutter](https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png)
+![Flutter]
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
