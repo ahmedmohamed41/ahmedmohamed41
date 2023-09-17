@@ -20,7 +20,7 @@ My personal profile
 ### Languages and Tools 🛠 : 
 
 ![c++]([https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg))
-![Dart]
+![Dart](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Dart&logoColor=%23ffffff)
 ![Flutter]
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
