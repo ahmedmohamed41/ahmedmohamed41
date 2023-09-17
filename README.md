@@ -30,7 +30,7 @@ My personal profile
 
 
 - ### I’m currently learning 
-![Problem Solving]
+![Problem Solving](https://img.shields.io/badge/-Problem Solving-%23F05032?style=flat-square&logo=Problem Solving&logoColor=%23ffffff)
 ![Dart](http://img.shields.io/badge/-Dart-0078D6?style=flat-square&logo=Dart&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
 
