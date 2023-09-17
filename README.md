@@ -19,7 +19,7 @@ My personal profile
 
 ### Languages and Tools 🛠 : 
 
-![c++]([https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg))
+![c++](http://img.shields.io/badge/-C++-0078D6?style=flat-square&logo=C++&logoColor=ffffff)
 ![Dart](http://img.shields.io/badge/-Dart-0078D6?style=flat-square&logo=Dart&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -30,7 +30,7 @@ My personal profile
 
 
 - ### I’m currently learning 
-![Problem Solving](https://img.shields.io/badge/-Problem Solving-%23F05032?style=flat-square&logo=Problem Solving&logoColor=%23ffffff)
+![Problem Solving](https://img.shields.io/badge/-Problem.solving-%23F05032?style=flat-square&logo=Problem.solving&logoColor=%23ffffff)
 ![Dart](http://img.shields.io/badge/-Dart-0078D6?style=flat-square&logo=Dart&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
 
